@@ -27,4 +27,6 @@ A few more notes:
 •	I bought and used a SEN-39002 lightning simulator. It doesn’t work well at all. I think it’s because the SEN-39002 is a shield that sits on top of an Arduino UNO and the UNO emits RFI (radio frequency interference) along with the simulated lightning signals so the UNO RFI masks the simulated signals. I tried various fixes but nothing worked well and “Playing with fusion”  didn’t answer my emails. It does occasionally trigger the Sparkfun AS3935 so I haven’t tossed it yet. 
 •	A lot of hobbyists have complained the AS 3935 doesn’t work. It does work fine but you really need to work around the RFI issues which I have done. It was really exciting watching the multiple lightning strikes get detected from several big storms that I monitored this last summer. I’ll post a video of the TFT on Youtube along with this write up. 
 
+The Youtube Video showing visual details and the lightning detector operating is located at  https://youtu.be/ibwPA6T7BcI 
+
 
